@@ -1,7 +1,8 @@
-# Привет мир! Меня зовут Артём Полешко
+# Hello, World! My name is Artyom Poleshko
 
-## Специализируюсь на фронтенд разработке. Являюсь студентом второго курса Сибирского Федерального университета, института космических и информационных технологий. 
-### Мой основной стек технологий:
+## I specialize in frontend development. I am a second year student at the Siberian Federal University (SibFU), Institute of Space and Information Technologies. 
+
+### My main technology stack:
 
  - React, Redux toolkit;
 
@@ -13,19 +14,19 @@
 
  - MongoDB, PostgreSQL.
 
-  ### Работал над такими проектами, как:
+### Worked on projects such as:
 
- - Адаптивный чат с распознаванием речи;
+ - Adaptive chat with speech recognition;
 
- - Авторизация через JWT и по лицу;
+ - Authorization via JWT and face;
 
- - AR приложение для ресторанов;
+ - AR application for restaurants;
 
- - Доступный и адаптивный сайт для доставки;
+ - Accessible and adaptive website for delivery;
 
- - И многое другое.
+ - And much more.
 
-Очень люблю то, чем занимаюсь, ищу как можно больше возможностей для реализации и воплощения интересных идей в реальность, постоянно изучаю и пробую новые технологии, чтобы всегда быть на волне прогресса)
+I really love what I do, I look for as many opportunities as possible to implement and translate interesting ideas into reality, I constantly study and try new technologies in order to always be on the wave of progress)
 
 ### Languages
 
@@ -42,7 +43,14 @@
 
 
 ### Tools
+
 ![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=#f64d27)
 ![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=#75afcc)
 ![eslint](https://img.shields.io/badge/-eslint-090909?style=for-the-badge&logo=eslint&logoColor=4d39a7)
 ![figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=8638e5)
+
+
+### Activity
+
+[![codewars](https://www.codewars.com/users/liminfinity/badges/micro)](https://www.codewars.com/users/liminfinity) 
+[![CodePen](https://img.shields.io/badge/CodePen-Profile-informational?logo=codepen)](https://codepen.io/Artyom-Poleshko)
