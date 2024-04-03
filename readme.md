@@ -36,6 +36,7 @@ I really love what I do, I look for as many opportunities as possible to impleme
 ![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=764abc)
 ![html5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=#e34c26)
 ![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=285ddb)
+![sсss](https://img.shields.io/badge/-sсss-090909?style=for-the-badge&logo=sass&logoColor=#bf4080)
 ![nodejs](https://img.shields.io/badge/-nodejs-090909?style=for-the-badge&logo=nodedotjs&logoColor=#417e38)
 ![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express&logoColor=259dff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=#417e38)
