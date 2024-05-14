@@ -55,3 +55,4 @@ I really love what I do, I look for as many opportunities as possible to impleme
 
 [![codewars](https://www.codewars.com/users/liminfinity/badges/micro)](https://www.codewars.com/users/liminfinity) 
 [![CodePen](https://img.shields.io/badge/CodePen-Profile-informational?logo=codepen)](https://codepen.io/Artyom-Poleshko)
+[![NPM](https://img.shields.io/badge/NPM-Profile-informational?logo=NPM)](https://www.npmjs.com/~liminfinity)
