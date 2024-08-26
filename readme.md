@@ -7,7 +7,7 @@
 * **Typescript, Javascript, React, Redux, Next.js;**
 * **Node.js, NestJS, MongoDB;**
 * **HTML5, CSS3, SASS;**
-* **Vite, Eslint, Jest;**
+* **Vite, Eslint, Jest.**
 
 ### I designed and created:
 
@@ -15,7 +15,7 @@
 * **Interactive 3D menu with gamification;** (React, RTK/RTK Query, Typescript, SCSS, Node.js, Express, MongoDB)
 * **Global repository of all books;** (React, Zustand, Tanstack Query, Typescript, SCSS)
 * **Messenger with speech recognition;** (React, RTK, Javascript, SCSS, Node.js, Express, MongoDB)
-* **Authorization using jwt, oauth or face authentication;** (Node.js, Express, PostgreSQL)
+* **Authorization using jwt, oauth or face authentication.** (Node.js, Express, PostgreSQL)
 
 ### Languages
 
