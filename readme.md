@@ -2,18 +2,6 @@
 
 ## I specialize in frontend development. I am a second year student at the Siberian Federal University (SibFU), Institute of Space and Information Technologies. 
 
-### My main technology stack:
-
- - React, Redux toolkit;
-
- - Typescript;
-
- - Tailwind, scss;
-
- - NodeJS, Express;
-
- - MongoDB, PostgreSQL.
-
 ### Worked on projects such as:
 
  - Adaptive chat with speech recognition;
@@ -30,25 +18,38 @@ I really love what I do, I look for as many opportunities as possible to impleme
 
 ### Languages
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-090909?style=for-the-badge&logo=TypeScript&logoColor=#1570ad)
-![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=#f6dc3c)
-![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=React&logoColor=#1884ac)
-![Redux](https://img.shields.io/badge/-Redux-090909?style=for-the-badge&logo=Redux&logoColor=764abc)
-![html5](https://img.shields.io/badge/-html5-090909?style=for-the-badge&logo=html5&logoColor=#e34c26)
-![css3](https://img.shields.io/badge/-css3-090909?style=for-the-badge&logo=css3&logoColor=285ddb)
-![sсss](https://img.shields.io/badge/-sсss-090909?style=for-the-badge&logo=sass&logoColor=#bf4080)
-![nodejs](https://img.shields.io/badge/-nodejs-090909?style=for-the-badge&logo=nodedotjs&logoColor=#417e38)
-![Express](https://img.shields.io/badge/-Express-090909?style=for-the-badge&logo=express&logoColor=259dff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=mongodb&logoColor=#417e38)
-![postgresql](https://img.shields.io/badge/-postgresql-090909?style=for-the-badge&logo=postgresql&logoColor=259dff)
+![Typescript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Redux](https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React Router](https://img.shields.io/badge/react_router-FF4154?style=for-the-badge&logo=reactrouter&logoColor=white)
+![React Query](https://img.shields.io/badge/react_query-CA4245?style=for-the-badge&logo=reactquery&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
 ### Tools
 
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=git&logoColor=#f64d27)
-![Webpack](https://img.shields.io/badge/-Webpack-090909?style=for-the-badge&logo=webpack&logoColor=#75afcc)
-![eslint](https://img.shields.io/badge/-eslint-090909?style=for-the-badge&logo=eslint&logoColor=4d39a7)
-![figma](https://img.shields.io/badge/-figma-090909?style=for-the-badge&logo=figma&logoColor=8638e5)
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)
+![Babel](https://img.shields.io/badge/babel-F9DC3E?style=for-the-badge&logo=babel&logoColor=black)
+![Eslint](https://img.shields.io/badge/eslint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white)
+![Stylelint](https://img.shields.io/badge/stylelint-263238?style=for-the-badge&logo=stylelint&logoColor=white)
+![Prettier](https://img.shields.io/badge/prettier-1b2b34?style=for-the-badge&logo=prettier&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/react_testing_library-E33332?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![WebdriverIO](https://img.shields.io/badge/Webdriverio-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Github_Actions](https://img.shields.io/badge/github_actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-8638e5?style=for-the-badge&logo=figma&logoColor=white)
 
 
 ### Activity
