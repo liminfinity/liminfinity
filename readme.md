@@ -1,20 +1,21 @@
-# Hello, World! My name is Artyom Poleshko
+<h1 align="center">Hi there, I'm <a href="https://t.me/liminfinity">Artyom</a>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h2 align="center">Frontend developer and student from Russia 🇷🇺</h3>
 
-## I specialize in frontend development. I am a second year student at the Siberian Federal University (SibFU), Institute of Space and Information Technologies. 
+### My main technology stack:
 
-### Worked on projects such as:
+* **Typescript, Javascript, React, Redux, Next.js;**
+* **Node.js, NestJS, MongoDB;**
+* **HTML5, CSS3, SASS;**
+* **Vite, Eslint, Jest;**
 
- - Adaptive chat with speech recognition;
+### I designed and created:
 
- - Authorization via JWT and face;
-
- - AR application for restaurants;
-
- - Accessible and adaptive website for delivery;
-
- - And much more.
-
-I really love what I do, I look for as many opportunities as possible to implement and translate interesting ideas into reality, I constantly study and try new technologies in order to always be on the wave of progress)
+* **AI-assisted video summarization application;** (React, RTK/RTK Query, Typescript, TailwindCSS)
+* **Interactive 3D menu with gamification;** (React, RTK/RTK Query, Typescript, SCSS, Node.js, Express, MongoDB)
+* **Global repository of all books;** (React, Zustand, Tanstack Query, Typescript, SCSS)
+* **Messenger with speech recognition;** (React, RTK, Javascript, SCSS, Node.js, Express, MongoDB)
+* **Authorization using jwt, oauth or face authentication;** (Node.js, Express, PostgreSQL)
 
 ### Languages
 
@@ -52,8 +53,20 @@ I really love what I do, I look for as many opportunities as possible to impleme
 ![Figma](https://img.shields.io/badge/figma-8638e5?style=for-the-badge&logo=figma&logoColor=white)
 
 
-### Activity
+### Activities
 
-[![codewars](https://www.codewars.com/users/liminfinity/badges/micro)](https://www.codewars.com/users/liminfinity) 
-[![CodePen](https://img.shields.io/badge/CodePen-Profile-informational?logo=codepen)](https://codepen.io/Artyom-Poleshko)
-[![NPM](https://img.shields.io/badge/NPM-Profile-informational?logo=NPM)](https://www.npmjs.com/~liminfinity)
+[![Codewars](https://img.shields.io/badge/codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/liminfinity)
+[![Codepen](https://img.shields.io/badge/codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Artyom-Poleshko)
+[![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~liminfinity)
+
+### Socials
+
+[![Telegram](https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/liminfinity)
+[![Vk](https://img.shields.io/badge/vk-0077FF?style=for-the-badge&logo=vk&logoColor=white)](https://vk.com/poleshkoas)
+[![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/?authuser=poleshko.artyom04@gmail.com)
+
+### Just for fun :)
+
+<img src="https://komarev.com/ghpvc/?username=liminfinity&style=flat-square&color=blue" alt=""/>
+
+
